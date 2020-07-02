@@ -3,6 +3,8 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT ZABAPGIT_TEST_REPORT.
+REPORT zabapgit_test_report.
 
-Write: 'Hello World!!!'.
+WRITE: 'Hello World!!!'.
+
+WRITE: 'This is change for code comparision'.
